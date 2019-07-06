@@ -1,0 +1,121 @@
+.page{
+    max-width: 960px;
+    margin: auto;
+}
+
+.name{
+    margin-top: 15%;
+  
+}
+
+
+.me{
+    position: absolute; top: 3opx; right: 250px;
+    border-radius: 50%;
+    height:150px;
+    margin-top: 40px;
+
+    box-shadow: 20px 20px rgb(0, 89, 255);
+}
+
+.skills h2{ 
+    display: flex; 
+    text-align: center; 
+    font-size: 200%; 
+    margin-left: 350px; 
+}
+.skills p{
+    display: grid; 
+    text-align: center; 
+    margin-right: 130px; 
+}
+h3{
+  
+    display: flex; 
+    text-align: center; 
+    font-size: 200%; 
+    margin-left: 350px; 
+}
+}
+.codepen{
+position: absolute;
+border-radius: 50%;
+display: flex;
+right: 6em;
+top: 1em;
+margin-top: 30px;
+justify-self: end;
+}
+
+.github{
+    position: absolute;
+    right: 6em;
+    top: 1em;
+    display: flex;
+    margin-top: 30px;
+  justify-self: end;
+  margin-right: 150px;
+   
+}
+.story h4{
+    text-align: end; 
+    font-size: 200%
+    
+}
+.story p{
+    text-align: end;
+    font-size: 100%;  
+}
+
+.skills{ 
+    background-color: lightgray;
+    display:flex;
+    text-align: center;
+    flex-direction: column;
+    margin: 0px;
+
+}
+.p.indent{
+     padding-left: 1.8em 
+}
+.row{ 
+    display:flex;
+    text-align: center;
+   
+}
+.capture1{
+   margin-right: -6em; 
+    
+}
+.footer{
+    background-color: lightgrey;
+    display: grid;
+    text-align: center;
+    font-size: 100%;
+   
+}   
+
+
+.icon{
+    
+    padding: 10px;
+    width: 60px;
+    height:60px;
+}
+.contact{
+    display: flex;
+    flex-direction: row; 
+   
+    width: 20%; 
+    text-align: left; 
+    margin-top: 50px; 
+    margin-right: 20px;
+}
+.github{
+    display: flex; 
+    flex-direction: row;  
+    margin-left: -5%; 
+    width: 7%; 
+    text-align: left; 
+    justify-content: space-between; 
+}
